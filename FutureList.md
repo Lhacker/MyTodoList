@@ -9,6 +9,8 @@
 	+ Be familiar with automation
 		- Introduce and use automate tool
 		- Create CI environment in private
+	+ Be familiar with monitoring tool
+		- Introduce and use monitoring tool over 3 times
 	+ Publish simple service and study about seculity
 		- Read "サイバーセキュリティ完全ガイド"
   + Study to create smart phone app
