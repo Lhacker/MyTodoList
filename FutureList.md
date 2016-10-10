@@ -5,6 +5,8 @@
 		- Can use docker compose
 		- Can use docker swarm
 		- Can use docker kubernetes
+	+ Be familiar with chat ops
+		- Use hubot script and collaborate with slack
 * 2017
 	+ Be familiar with automation
 		- Introduce and use automate tool
