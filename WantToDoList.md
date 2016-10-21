@@ -1,5 +1,6 @@
 # High priority
 * docker compose
+* Let's encrypt(With apache)
 * elasticsearch(without full-text search)
 * kibana
 * fluentd
