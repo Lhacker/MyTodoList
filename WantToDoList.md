@@ -1,6 +1,5 @@
 # High priority
 * docker compose
-* Let's encrypt(With apache)
 * elasticsearch(without full-text search)
 * kibana
 * fluentd
@@ -8,6 +7,7 @@
 
 # Middle priority
 * create hubot script and collaborate with slack
+* Let's encrypt(With apache)
 * read "The Principles of Programming"
 * read "機械学習と深層学習"
 * read "Soft Skills"
