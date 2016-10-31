@@ -1,11 +1,10 @@
 # High priority
-* docker compose
 * elasticsearch(without full-text search)
 * kibana
 * read "ElasticSearchServer" borrowed by Mr. I
+* create rundeck env by docker
 
 # Middle priority
-* create hubot script and collaborate with slack
 * openstack in rental server
 * read "The Principles of Programming"
 * read "機械学習と深層学習"
