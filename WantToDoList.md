@@ -1,4 +1,5 @@
 # High priority
+* Rundeck
 * elasticsearch(without full-text search)
 * kibana
 * read "ElasticSearchServer" borrowed by Mr. I
@@ -12,7 +13,7 @@
 * read "Docker 実践ガイド"
 * docker swarm
 * docker kubernetes
-* fluentd
+* Drone.io
 
 # Low priority
 * Let's encrypt(With apache)
