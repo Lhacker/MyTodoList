@@ -1,9 +1,9 @@
 # High priority
-* Rundeck
 * elasticsearch(without full-text search)
 * kibana
+* mysql by docker
+* logging by docker
 * read "ElasticSearchServer" borrowed by Mr. I
-* create rundeck env by docker
 
 # Middle priority
 * openstack in rental server
@@ -18,3 +18,9 @@
 # Low priority
 * Let's encrypt(With apache)
 * read "継続的デリバリー"
+* Rundeck
+
+# Done item
+* docker compose 
+* hubot with slack
+* create Rundeck env by docker
