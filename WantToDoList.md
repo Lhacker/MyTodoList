@@ -1,6 +1,6 @@
 # High priority
-* elasticsearch(without full-text search)
-* kibana
+* elasticsearch clustering
+* kibana with elasticsearch clustering
 * mysql by docker
 * logging by docker
 * read "ElasticSearchServer" borrowed by Mr. I
@@ -24,3 +24,4 @@
 * docker compose 
 * hubot with slack
 * create Rundeck env by docker
+* touch BurpSuite
