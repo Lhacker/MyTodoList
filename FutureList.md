@@ -2,11 +2,11 @@
 ## Future list
 * 2016
 	+ Use docker in work/private
-		- Can use docker compose
-		- Can use docker swarm
-		- Can use docker kubernetes
+		- [x] Can use docker compose
+		- [ ] Can use docker swarm
+		- [ ] Can use docker kubernetes
 	+ Be familiar with chat ops
-		- Use hubot script and collaborate with slack
+		- [x] Use hubot script and collaborate with slack
 * 2017
 	+ Be familiar with automation
 		- Introduce and use automate tool
