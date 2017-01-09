@@ -1,9 +1,10 @@
-# Todo
-* read redis client spec
-* learn about dns and bind9
-* test bind9 in docker container
-* install bind9 in vps server
-* change til/lineapi channel access token setting from 1 config to multiple channel config
-* make line api repo
-* think new line api design with express js
+# Idea
+* Make bar search bot(powered by [BAR-NAVI API by SUNTORY][http://webapi.suntory.co.jp/barnavidocs/index.html])
+* Make bot which use CotoGot::Noby API by [here][https://www.cotogoto.ai/webapi.do#intro]
 
+# Todo
+* Learn iptables
+* Learn kubernetes
+* Learn DNS
+	+ Test Bind9
+  + Make subdomain

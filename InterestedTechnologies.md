@@ -1,8 +1,11 @@
+* LINE bot
+* iptables
+* Docker swarm
+* Docker kubernetes
+* machine learning
+* Jenkins2.x
 * Capistrano3
 * Webistrano
-* Jenkins2.x
-* iptables
 * fail2ban
-* hubot
-* Rundeck
-* machine learning
+* [x] hubot
+* [x] Rundeck
