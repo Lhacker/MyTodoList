@@ -8,16 +8,21 @@
 	+ Be familiar with chat ops
 		- [x] Use hubot script and collaborate with slack
 * 2017
+	+ Make LINE bot
+		- [ ] make interactive search bot
+	+ Use docker in work/private
+		- [ ] Can use docker swarm
+		- [ ] Can use docker kubernetes
 	+ Be familiar with automation
-		- Introduce and use automate tool
-		- Create CI environment in private
+		- [ ] Introduce and use automate tool
+		- [ ] Create CI environment in private
 	+ Be familiar with monitoring tool
-		- Introduce and use monitoring tool over 3 times
+		- [ ] Introduce and use monitoring tool over 3 times
 	+ Publish simple service and study about seculity
-		- Read "サイバーセキュリティ完全ガイド"
+		- [ ] Read "サイバーセキュリティ完全ガイド"
   + Study to create smart phone app
-		- Study Swift and create iPhone App 
-		- Create Android App 
+		- [ ] Study Swift and create iPhone App 
+		- [ ] Create Android App 
 * 2018
 	+ Be familiar with security
 	+ Be familiar with network
@@ -27,13 +32,6 @@
 	+ TBD
 * 2020
 	+ TBD
-
-## Result
-* 2016
-	+ Use docker in work/private
-		- Can use docker compose ===> 2016/10/10 No
-		- Can use docker swarm ===> 2016/10/10 No
-		- Can use docker kubernetes ===> 2016/10/10 No
 
 # Future list per age
 ## Future list
@@ -53,4 +51,13 @@
 
 ## Result
 * 28
-	+ TBD
+	+ [ ] Be familiar with automation
+	+ [ ] Be familiar with network
+	+ [ ] Be familiar with security
+	+ [ ] Earn 4 hundred thousand yen in a month
+
+* 29
+	+ [ ] Be familiar with automation
+	+ [ ] Be familiar with network
+	+ [ ] Be familiar with security
+	+ [ ] Earn 4 hundred thousand yen in a month
